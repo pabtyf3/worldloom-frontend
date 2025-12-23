@@ -1,0 +1,11 @@
+{
+  "components": {
+    "button": {
+      "radius": "md",
+      "padding": {
+        "x": "space-4",
+        "y": "space-2"
+      }
+    }
+  }
+}

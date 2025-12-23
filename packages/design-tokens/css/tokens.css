@@ -1,0 +1,24 @@
+/* WorldLoom Studio Design Tokens v0.1 */
+:root {
+  --wl-bg-primary: #121212;
+  --wl-bg-raised: #1a1a1a;
+  --wl-bg-surface: #202020;
+
+  --wl-border-default: #2c2c2c;
+
+  --wl-text-primary: #e6e6e6;
+  --wl-text-secondary: #b0b0b0;
+  --wl-text-muted: #7a7a7a;
+
+  --wl-accent-primary: #c2a15a;
+
+  --wl-font-family-base: "Inter", system-ui, sans-serif;
+
+  --wl-space-1: 4px;
+  --wl-space-2: 8px;
+  --wl-space-3: 12px;
+  --wl-space-4: 16px;
+
+  --wl-radius-sm: 4px;
+  --wl-radius-md: 6px;
+}

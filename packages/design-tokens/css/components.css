@@ -1,0 +1,13 @@
+/* WorldLoom Studio Component Tokens v0.1 */
+:root {
+  --wl-btn-radius: var(--wl-radius-md);
+  --wl-btn-padding-x: var(--wl-space-4);
+  --wl-btn-padding-y: var(--wl-space-2);
+
+  --wl-input-radius: var(--wl-radius-sm);
+  --wl-input-padding-x: var(--wl-space-3);
+  --wl-input-padding-y: var(--wl-space-2);
+
+  --wl-panel-radius: var(--wl-radius-md);
+  --wl-panel-padding: var(--wl-space-4);
+}

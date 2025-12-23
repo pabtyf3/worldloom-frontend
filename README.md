@@ -312,10 +312,10 @@ pnpm cap build android
 ## Related Documentation
 
 This repository implements the specifications defined in:
-- [Frontend Technical Specification](../worldloom-frontend-spec/01_Frontend_Technical_Specification.md)
-- [Implementation Approach](../worldloom-frontend-spec/IMPLEMENTATION_APPROACH.md)
-- [Integration Notes](../worldloom-frontend-spec/INTEGRATION_NOTES.md)
-- [Unified Task List](../implementation/worldloom-frontend/tasks/UNIFIED_TASK_LIST.md)
+- [Frontend Technical Specification](../worldLoom-spec/worldloom-frontend-spec/01_Frontend_Technical_Specification.md)
+- [Implementation Approach](../worldLoom-spec/worldloom-frontend-spec/IMPLEMENTATION_APPROACH.md)
+- [Integration Notes](../worldLoom-spec/worldloom-frontend-spec/INTEGRATION_NOTES.md)
+- [Unified Task List](../worldLoom-spec/implementation/worldloom-frontend/tasks/UNIFIED_TASK_LIST.md)
 
 ---
 
